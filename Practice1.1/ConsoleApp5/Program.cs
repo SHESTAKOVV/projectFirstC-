@@ -13,7 +13,7 @@ public class Program
 
         inputString = "Start " + inputString;
 
-        inputString = inputString + " End";
+        inputString += " End";
         
         Console.WriteLine($"Количество слов: {wordCount}");
         Console.WriteLine("Результат: " + inputString);
