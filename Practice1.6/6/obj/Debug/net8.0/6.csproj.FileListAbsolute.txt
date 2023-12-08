@@ -1,0 +1,15 @@
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\bin\Debug\net8.0\6.exe
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\bin\Debug\net8.0\6.deps.json
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\bin\Debug\net8.0\6.runtimeconfig.json
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\bin\Debug\net8.0\6.dll
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\bin\Debug\net8.0\6.pdb
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.AssemblyInfoInputs.cache
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.AssemblyInfo.cs
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.csproj.CoreCompileInputs.cache
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.sourcelink.json
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.dll
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\refint\6.dll
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.pdb
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\6.genruntimeconfig.cache
+D:\Эдик\Programming\C# bomb1\Practika\Practice1.6\6\obj\Debug\net8.0\ref\6.dll

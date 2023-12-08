@@ -1,0 +1,15 @@
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.exe
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.deps.json
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.runtimeconfig.json
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.dll
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\bin\Debug\net8.0\ConsoleApp3.pdb
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfoInputs.cache
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.AssemblyInfo.cs
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.sourcelink.json
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.dll
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\refint\ConsoleApp3.dll
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.pdb
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ConsoleApp3.genruntimeconfig.cache
+D:\Эдик\Programming\C# bomb1\Practika\Praktice\ConsoleApp3\obj\Debug\net8.0\ref\ConsoleApp3.dll
